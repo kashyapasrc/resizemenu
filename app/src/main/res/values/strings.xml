@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResizeMenu</string>
+    <string name="headlines">Headlines</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Logout</string>
+    <string name="action_settings">Settings</string>
+</resources>

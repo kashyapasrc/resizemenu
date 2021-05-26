@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomHeaderEditText">
+        <attr name="title" format="string" />
+
+        <attr name="max_lines" format="integer" />
+        <attr name="hint_text" format="string"/>
+        <attr name="edittext_value" format="string|integer"/>
+
+        <attr name="max_length" format="integer" />
+
+
+    </declare-styleable>
+</resources>
